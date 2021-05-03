@@ -4,9 +4,6 @@
 
 [![CI](https://github.com/marghidanu/docker-ocaml/actions/workflows/CI.yml/badge.svg)](https://github.com/marghidanu/docker-ocaml/actions/workflows/CI.yml)
 
-## Build image
+## Description
 
-```
-docker-compose build
-docker-compose push
-```
+TODO: Add description here...
